@@ -1,4 +1,0 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Cras a turpis tellus.
-Sed et magna sollicitudin, maximus ligula nec, suscipit ex.
-Morbi a mollis velit.
