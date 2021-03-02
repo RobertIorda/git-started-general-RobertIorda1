@@ -1,0 +1,29 @@
+commit 192449299b3dd82dd9d9606f27002ce034ef65aa
+Author: RobertIorda <iordachescurobert64@gmail.com>
+Date:   Mon Mar 1 22:47:34 2021 +0200
+
+    Needed this
+
+commit f9af7a22f47cd9febdfc7f70a27956fa65a2f936
+Author: RobertIorda <iordachescurobert64@gmail.com>
+Date:   Mon Mar 1 22:46:25 2021 +0200
+
+    Needed a change
+
+commit b033820a198f25406a32d7fe653f9d890c1b90b0
+Author: RobertIorda <iordachescurobert64@gmail.com>
+Date:   Mon Mar 1 22:37:49 2021 +0200
+
+    Added a few lines
+
+commit c83ef524e4d3bb39514f41fa7c13e2fa1338b929
+Author: RobertIorda <iordachescurobert64@gmail.com>
+Date:   Mon Mar 1 22:21:20 2021 +0200
+
+    Testing
+
+commit 0f3b32199b131f98a904890f634d2aba7acd4006
+Author: RobertIorda <iordachescurobert64@gmail.com>
+Date:   Mon Mar 1 22:15:45 2021 +0200
+
+    Ignoring files specified
